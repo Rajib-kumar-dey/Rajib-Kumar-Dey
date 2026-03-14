@@ -17,3 +17,8 @@
 Experienced Power BI Developer specializing in data visualization, SQL querying, and automation using Power Platform.
 
 📍 Odisha, India
+## GitHub Stats
+
+![Rajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajib-kumar-dey&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajib-kumar-dey&layout=compact&theme=tokyonight)
