@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rajib Kumar Dey 👋
 
-<!--
-**Rajib-kumar-dey/Rajib-Kumar-Dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Power BI Developer with 4.6 years of experience
 
-Here are some ideas to get you started:
+## Skills
+- Power BI
+- SQL Server
+- Power Automate
+- Power Apps
+- Java 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Experienced Power BI Developer specializing in data visualization, SQL querying, and automation using Power Platform.
+
+📍 Odisha, India
